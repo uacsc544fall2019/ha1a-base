@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    overflow: none;
+}
+
+p {
+    font: 12pt sans-serif;
+}
+
+h3 {
+    margin: 0px 0px 5px 0px;
+    font: 16pt sans-serif;
+}
+
+.container {
+    width: 650px;
+    margin-left: 500px;
+    position: absolute;
+}
+
+.halabel {
+    font-weight: bold;
+}
+
+.percentages {
+    margin: 15px 0px 15px 0px;
+}
+
+.visualization {
+    width: 450px;
+    padding: 10px;
+    border: 1px solid black;
+    position: fixed;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+}
